@@ -1,0 +1,21 @@
+{
+    "version": 4,
+    "kind": "mnemonic",
+    "id": "efe5b141-44ab-4990-bbc4-f3b5fdd7e433",
+    "crypto": {
+        "ciphertext": "c39198185caf859596e24469567fcd795d97503e20f4aa9cd30d37ff2b22f167efc5906d4d9de26326b1514e3b5e5953d5d320cfab8e0e3bb598bdacba1e7f63f2fa86a531b290242948d02c38400ed70e20a32d40259e6b9710c92599594ff76f2fc4cb07b2a1fc43c9aef41e023f8d29ebac93f5393e53ce31c3e58793ff79c82b0057622f3bd52ca66bb87a3530d61d72b82dcf3faa1e4e65",
+        "cipherparams": {
+            "iv": "2a5d1b8fbfd6c906c5f65ba2214a7192"
+        },
+        "cipher": "aes-128-ctr",
+        "kdf": "scrypt",
+        "kdfparams": {
+            "dklen": 32,
+            "salt": "1cf408689174a8311a1ba4972877daf07ed7cb0dfb1844aa363561317d6729b9",
+            "n": 4096,
+            "r": 8,
+            "p": 1
+        },
+        "mac": "2617e79703fb75e48e8e77a3f8b6c3d39b7fa744575645ccafbcd547a933754f"
+    }
+}
